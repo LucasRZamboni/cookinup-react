@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cookinup-react/static/css/main.8451c7c1.css",
+    "main.js": "/cookinup-react/static/js/main.4950fb4b.js",
+    "index.html": "/cookinup-react/index.html",
+    "main.8451c7c1.css.map": "/cookinup-react/static/css/main.8451c7c1.css.map",
+    "main.4950fb4b.js.map": "/cookinup-react/static/js/main.4950fb4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8451c7c1.css",
+    "static/js/main.4950fb4b.js"
+  ]
+}
