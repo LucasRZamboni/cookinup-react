@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  transition: all 0.1s ease-in-out;
+}
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Paytone+One&display=swap");
+
+:root {
+  --color1: #d1451e;
+  --color2: #f0633c;
+  --color3: #263a29;
+  --color4: #444444;
+  --color5: #fffaf3;
+  --color6: #3d6d4a;
+  --color7: #070614;
+  --color8: #222222;
+  --color9: #ffffff;
+  --color10: #4eb369;
+  --font1: "Nunito Sans", sans-serif;
+  --font2: "Paytone One", sans-serif;
+}
