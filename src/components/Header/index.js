@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <header>
       <nav>
-        <img src="IMG/Logo1.png" alt="logo"/>
+      <img src="IMG/Logo1.png" alt="logo" />
         <ul id="nav-menu">
           <li>
             <a href="#home" className="active">
@@ -12,7 +12,7 @@ const Header = () => {
             </a>
           </li>
           <li className="li-receitas">
-            <a href="#" className="dropdown-link">
+            <a href="#receitas" className="dropdown-link">
               Receitas <ion-icon name="chevron-down-outline"></ion-icon>
             </a>
             <ul className="dropdown-menu">
@@ -20,7 +20,7 @@ const Header = () => {
                 <a href="#doces">Doces</a>
               </li>
               <li>
-                <a className="dropdown-link">Salgado</a>
+                <a href="#salgado" className="dropdown-link">Salgado</a>
                 <ul className="dropdown-menu">
                   <li>
                     <a href="#carnes">Carnes</a>
