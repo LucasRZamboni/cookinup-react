@@ -4,6 +4,7 @@ body {
   display: flex;
   flex-direction: column;
   background: var(--color5);
+  background-image: url('/public/IMG/Padronagem.png');
 }
 section{
   width: 100%;
