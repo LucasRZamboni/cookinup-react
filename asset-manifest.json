@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/cookinup-react/static/css/main.7c2d9176.css",
+    "main.css": "/cookinup-react/static/css/main.9f4ee1a7.css",
     "main.js": "/cookinup-react/static/js/main.03a187b2.js",
+    "static/media/Padronagem.png": "/cookinup-react/static/media/Padronagem.3588336d1362d3e08407.png",
     "index.html": "/cookinup-react/index.html",
-    "main.7c2d9176.css.map": "/cookinup-react/static/css/main.7c2d9176.css.map",
+    "main.9f4ee1a7.css.map": "/cookinup-react/static/css/main.9f4ee1a7.css.map",
     "main.03a187b2.js.map": "/cookinup-react/static/js/main.03a187b2.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c2d9176.css",
+    "static/css/main.9f4ee1a7.css",
     "static/js/main.03a187b2.js"
   ]
 }
