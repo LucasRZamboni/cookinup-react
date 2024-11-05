@@ -18,6 +18,14 @@ header nav img{
     width: 150px;
     margin-left: 16px;
 }
+header nav .logo{
+    background-image: url('/public/IMG/Logo1.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 180px;
+    height: 100px;
+}
 header nav ul{
     display: flex;
     gap: 4px;
