@@ -1,0 +1,9 @@
+.divisor2 div:nth-child(1) .itens{
+    background-image: url('/public/IMG/ÍconePães.png');
+}
+.divisor2 div:nth-child(2) .itens{
+    background-image: url('/public/IMG/ÍconesTemperos.png');
+}
+.divisor2 div:nth-child(3) .itens{
+    background-image: url('/public/IMG/ÍconeDoces.png');
+}
