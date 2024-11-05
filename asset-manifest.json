@@ -1,14 +1,18 @@
 {
   "files": {
-    "main.css": "/cookinup-react/static/css/main.9f4ee1a7.css",
-    "main.js": "/cookinup-react/static/js/main.03a187b2.js",
+    "main.css": "/cookinup-react/static/css/main.7afbafcf.css",
+    "main.js": "/cookinup-react/static/js/main.ef0b3944.js",
+    "static/media/banner.png": "/cookinup-react/static/media/banner.b1d44a109eef07254da4.png",
     "static/media/Padronagem.png": "/cookinup-react/static/media/Padronagem.3588336d1362d3e08407.png",
+    "static/media/Cooking-Up-IMG01.png": "/cookinup-react/static/media/Cooking-Up-IMG01.e7d150bca93c2f11f14e.png",
+    "static/media/Cooking-Up-IMG03.png": "/cookinup-react/static/media/Cooking-Up-IMG03.9c56858f5ebd63727c91.png",
+    "static/media/Cooking-Up-IMG02.png": "/cookinup-react/static/media/Cooking-Up-IMG02.110a62b24e9a0e4397e4.png",
     "index.html": "/cookinup-react/index.html",
-    "main.9f4ee1a7.css.map": "/cookinup-react/static/css/main.9f4ee1a7.css.map",
-    "main.03a187b2.js.map": "/cookinup-react/static/js/main.03a187b2.js.map"
+    "main.7afbafcf.css.map": "/cookinup-react/static/css/main.7afbafcf.css.map",
+    "main.ef0b3944.js.map": "/cookinup-react/static/js/main.ef0b3944.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f4ee1a7.css",
-    "static/js/main.03a187b2.js"
+    "static/css/main.7afbafcf.css",
+    "static/js/main.ef0b3944.js"
   ]
 }
