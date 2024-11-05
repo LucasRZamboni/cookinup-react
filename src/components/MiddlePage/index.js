@@ -2,7 +2,7 @@ import './MiddlePage.css';
 
 const MiddlePage = () => {
     return (
-        <section>
+        <section className='mp1'>
             <div>
                 <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit, iusto hic quam autem voluptates harum, eveniet nihil est delectus sit doloribus, consequuntur cupiditate libero corporis eius. Labore enim facere ab?  
