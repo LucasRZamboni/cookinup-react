@@ -20,3 +20,92 @@
   --font1: "Nunito Sans", sans-serif;
   --font2: "Paytone One", sans-serif;
 }
+
+.mp1,
+.mp2,
+.mp3{
+  padding: 0 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 20px;
+  background: var(--color3);
+}
+.mp1 div,
+.mp2 div,
+.mp3 div{
+  width: 50%;
+  padding: 30px;
+}
+.mp1 div p,
+.mp2 div p,
+.mp3 div p{
+  font-family: var(--font1);
+  font-size: 20px;
+  color: var(--color5);
+  text-align: justify;
+}
+.mp1 img,
+.mp2 img,
+.mp3 img{
+  width: 350px;
+}
+.mp1 .image,
+.mp2 .image,
+.mp3 .image{
+  width: 350px;
+  height: 350px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.divisor,
+.divisor2,
+.divisor3{
+  /* background: rgba(0, 0, 0, 0.137); */
+  height: 185px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 0 100px;
+}
+.divisor div,
+.divisor2 div,
+.divisor3 div{
+  width: 30%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 10px;
+  height: 100%;
+}
+.divisor div img,
+.divisor div .itens,
+.divisor2 div img,
+.divisor2 div .itens,
+.divisor3 div img,
+.divisor3 div .itens{
+  width: 80px;
+  border-radius: 100%;
+  border: 2px solid var(--color6);
+  padding: 2px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.548);
+}
+.divisor div .itens,
+.divisor2 div .itens,
+.divisor3 div .itens{
+  height: 80px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.divisor div p,
+.divisor2 div p,
+.divisor3 div p{
+  font-family: var(--font1);
+  font-size: 24px;
+  color: var(--color4);
+}
