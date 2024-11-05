@@ -2,7 +2,7 @@ import './MiddlePage2.css';
 
 const MiddlePage2 = () => {
     return (
-        <section>
+        <section className='mp2'>
             
             {/* <img src='IMG/Cooking-Up-IMG03.png' alt='pessoa cozinhando'/> */}
             <div className='image'>
